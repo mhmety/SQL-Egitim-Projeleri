@@ -1,4 +1,4 @@
-"""# 🚀 Uygulamalarla SQL Veri Analizi ve E-Ticaret Yönetimi
+# 🚀 Uygulamalarla SQL Veri Analizi ve E-Ticaret Yönetimi
 
 Bu depo, **BTK Akademi** bünyesinde tamamladığım "Uygulamalarla SQL Öğreniyorum" eğitim sürecindeki kapsamlı çalışma notlarımı ve gerçek bir e-ticaret veritabanı (`ETRADE`) üzerinden kurguladığım **Bitirme Projesi** analizlerini içermektedir.
 
